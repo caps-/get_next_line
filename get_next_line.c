@@ -6,13 +6,14 @@
 /*   By: pwhittin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/03 15:47:21 by pwhittin          #+#    #+#             */
-/*   Updated: 2022/08/03 15:47:23 by pwhittin         ###   ########.fr       */
+/*   Updated: 2022/08/03 15:51:42 by pwhittin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 char	*ft_read_and_save(fd, *save)
 {
-
+	char	*buffer;
+	char	;
 }
 
 char	*ft_get_line(*save)
