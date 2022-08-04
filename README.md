@@ -5,3 +5,6 @@
 - https://www.codequoi.com/en/42-get_next_line-project/
 - https://github.com/bridiefranks/Get_next_line-with-comments
 - https://github.com/nimrodds/get_next_line ✨
+
+# utils to use
+- https://denigma.app/
